@@ -1,5 +1,5 @@
 # SCART2VGA
-Passive SCART to VGA adapter for Moprh 4K 
+Passive SCART to VGA adapter for Morph 4K 
 
 This routes SCART audio to VGA pins 12 (Left) and 15 (Right)
 
